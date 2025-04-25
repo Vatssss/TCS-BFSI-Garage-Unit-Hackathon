@@ -1,0 +1,28 @@
+Feature,Importance
+Checking account_no_info,0.17917135
+Purpose_repairs,0.061084114
+Purpose_education,0.05232205
+Saving accounts_no_info,0.05183443
+Saving accounts_rich,0.050836843
+Purpose_radio/TV,0.050715692
+Housing_own,0.048143838
+Credit_bin_High,0.043854732
+Duration,0.04340476
+Saving accounts_moderate,0.04029074
+Checking account_rich,0.037025448
+Credit amount,0.033430364
+Checking account_moderate,0.03191442
+Purpose_furniture/equipment,0.030780483
+Housing_rent,0.030076073
+Age,0.030032437
+Purpose_car,0.029405378
+Job,0.028307768
+Sex,0.02801525
+Saving accounts_quite rich,0.026626803
+Age_group_Senior,0.026409652
+Credit_bin_Medium,0.023742631
+Age_group_Adult,0.022574777
+Purpose_domestic appliances,0.0
+Purpose_vacation/others,0.0
+Age_group_Elder,0.0
+Credit_bin_Very_High,0.0

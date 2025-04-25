@@ -7,7 +7,7 @@ A machine learning application to predict the **creditworthiness of loan applica
 ## 🚀 Demo
 
 🎥 [Watch the demo video with voiceover →](#) *(Insert your YouTube or drive link here)*\
-📊 Live app: *(Optional – if hosted on Streamlit Cloud or elsewhere)*
+📊 Live app: [Live link](https://german-credit-risk-predictor.streamlit.app/)
 
 ---
 
